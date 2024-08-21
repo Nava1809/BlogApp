@@ -1,6 +1,6 @@
-intall node modules in backend and frontend using "npm i"
-start server: npm start
-start react app: npm start
+1.intall node modules in backend and frontend using "npm i"
+2.start server: npm start
+3.start react app: npm start
 
 Backend Implementation
 1. Express Server Setup
